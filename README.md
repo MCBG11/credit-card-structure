@@ -1,0 +1,1 @@
+"This is a practice exercise. In the main class you, as an user, can define you credit card balance and start to make purchases according to it, the products you buy will be saved in an Arraylist"
